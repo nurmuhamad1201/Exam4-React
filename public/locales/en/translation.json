@@ -1,0 +1,26 @@
+{
+  
+  "nav":{
+    "home":"Home",
+    "PricinG" :"Pricing",
+    "About" :"About",
+    "Contact" :"Contact",
+    "blog" : "Blog",
+    "Login" :"Login"
+  },
+  "salom1":"Teams Build Better Products With Nisa",
+  "salom2":"Nisa is constantly improving to move forward through dashboard, statistics, data and verify and superior human resources.",
+  "salom3":"Discover the power of creative freedom with Nisa.",
+  "salom4":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
+  "salom5" : "Motiur Leeman",
+  "salom6" : "Markating  Manager.",
+  "salom7" : "Add some additional details about your product",
+  "salom8": "Share the features that help your customers",
+  "salom9":"Blog",
+  "salom10":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. .",
+  "salom11":"Documentation",
+  "salom12": "intergrations",
+  "salom13":"Customers",
+  "salom14" : "Discover the power of creative freedom with Nisa.",
+  "salom15" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pretium consectetur egestas mauris adipiscing dui. "
+}

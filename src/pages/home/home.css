@@ -1,0 +1,24 @@
+/* Add this CSS to your existing styles or create a new CSS file */
+.swiper-container {
+    width: 95%;
+    margin: 0 auto;
+  }
+  
+  .swiper-slide {
+    width: 100%; 
+  }
+  
+  /* Optionally, add styles for the navigation buttons */
+  .swiper-button-prev,
+  .swiper-button-next {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    padding: 10px;
+  }
+  
+  .swiper-button-prev:hover,
+  .swiper-button-next:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  

@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "home": "Домой",
+    "PricinG": "Цены",
+    "About": "О нас",
+    "Contact": "Контакт",
+    "blog": "Блог",
+    "Login": "Вход"
+  },
+  "salom1": "Команды создают лучшие продукты с Nisa",
+  "salom2": "Nisa постоянно совершенствуется, двигаясь вперед через панель управления, статистику, данные и проверку, а также с помощью выдающихся человеческих ресурсов.",
+  "salom3": "Откройте для себя мощь творческой свободы с Nisa.",
+  "salom4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
+  "salom5": "Мотиур Лееман",
+  "salom6": "Менеджер по маркетингу",
+  "salom7": "Добавьте некоторые дополнительные сведения о вашем продукте",
+  "salom8": "Поделитесь функциями, которые помогут вашим клиентам",
+  "salom9":"Блог",
+  "salom10":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. .",
+  "salom11":"Документация",
+  "salom12": "интеграции",
+  "salom13":"Клиенты"
+}
